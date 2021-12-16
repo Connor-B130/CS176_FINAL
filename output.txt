@@ -1,0 +1,30 @@
+topSpeed: 120 seats: 5, driveTrain: 4WD, doors: 4
+topSpeed: 90 seats: 4, driveTrain: FWD, doors: 2
+topSpeed: 180 seats: 4, driveTrain: RWD, doors: 2
+seats: 5, topSpeed: 100, towCapacity: 5000, payloadCapacity: 1000
+seats: 5, topSpeed: 95, towCapacity: 4000, payloadCapacity: 1500
+seats: 5, topSpeed: 120, towCapacity: 6000, payloadCapacity: 2000
+seats: 1, topSpeed: 220, hasWindShield: false
+seats: 2, topSpeed: 130, hasWindShield: true
+========================
+topSpeed: 90 seats: 4, driveTrain: FWD, doors: 2
+seats: 5, topSpeed: 95, towCapacity: 4000, payloadCapacity: 1500
+seats: 5, topSpeed: 100, towCapacity: 5000, payloadCapacity: 1000
+topSpeed: 120 seats: 5, driveTrain: 4WD, doors: 4
+seats: 5, topSpeed: 120, towCapacity: 6000, payloadCapacity: 2000
+seats: 2, topSpeed: 130, hasWindShield: true
+topSpeed: 180 seats: 4, driveTrain: RWD, doors: 2
+seats: 1, topSpeed: 220, hasWindShield: false
+========================
+seats: 5, topSpeed: 100, towCapacity: 5000, payloadCapacity: 1000
+seats: 5, topSpeed: 95, towCapacity: 4000, payloadCapacity: 1500
+seats: 5, topSpeed: 120, towCapacity: 6000, payloadCapacity: 2000
+========================
+seats: 5, topSpeed: 100, towCapacity: 5000, payloadCapacity: 1000
+seats: 5, topSpeed: 95, towCapacity: 4000, payloadCapacity: 1500
+seats: 5, topSpeed: 120, towCapacity: 6000, payloadCapacity: 2000
+========================
+seats: 5, topSpeed: 95, towCapacity: 4000, payloadCapacity: 1500
+seats: 5, topSpeed: 100, towCapacity: 5000, payloadCapacity: 1000
+seats: 5, topSpeed: 120, towCapacity: 6000, payloadCapacity: 2000
+========================
